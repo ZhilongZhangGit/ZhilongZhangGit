@@ -1,6 +1,6 @@
 - Hi! my name is Zhilong Zhang 😁
 - I have a passion for Weightlifting, Coding, Cryptocurrencies, and Video Games (I'm a controller player, don't hate me) 😅
-- I am a Computer Science Major in my last year at Western University 💻
+- I am a recent Computer Science graduate from Western University 💻
 - Welcome to my Github! 
 
 <!---
